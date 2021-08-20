@@ -1,8 +1,8 @@
 # hw21-book-search-engine
 
-[![License: MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-
 ![bannerImage](./Assets/banner.png)
+
+[![License: MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
 # 📋 Description 📋
